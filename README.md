@@ -67,21 +67,26 @@ L’objectif est de fournir un outil fiable, interprétable et interactif pouvan
 git clone https://github.com/votre-username/heart-disease-prediction.git
 cd heart-disease-prediction
 pip install -r requirements.txt
-
+```
 ---
 
 ## ▶️ Utilisation
 ### Lancer l’interface Web (Streamlit)
+```bash 
 streamlit run src/app.py
+```
 
 ### Entraîner le modèle
+```bash
 python src/model.py
+```
 
 ### Notebook Jupyter
 
-notebook/model.ipynb
+- notebook/model.ipynb
 
 ## 📁 Structure du Projet
+
 Heart-Disease-Prediction/
 │
 ├── dataset/          # Données brutes
@@ -99,53 +104,45 @@ Heart-Disease-Prediction/
 
 ### L’application permet :
 
-Saisie manuelle des caractéristiques du patient
-
-Prédiction en temps réel
-
-Visualisation des facteurs influents
-
-Téléchargement des résultats
-
-Capture d’écran
-images/app_screenshot.png
+- Saisie manuelle des caractéristiques du patient
+- Prédiction en temps réel
+- Visualisation des facteurs influents
+- Téléchargement des résultats
 
 ---
 
 ## 📊 Résultats
 ### Matrice de Confusion
-images/confusion_matrix.png
+- images/confusion_matrix.png
 
 ### Courbe ROC
-images/roc_curve.png
+- images/roc_curve.png
 
 ## 🧪 Technologies Utilisées
 
-Python
+- Python
 
-Scikit-learn
+- Scikit-learn
 
-Streamlit
+- Streamlit
 
-Pandas / NumPy
+- Pandas / NumPy
 
-Matplotlib / Seaborn
+- Matplotlib / Seaborn
 
-Joblib
+- Joblib
 
 ## 📚 Références
 
-World Health Organization – Cardiovascular Diseases
-
-UCI Machine Learning Repository – Heart Disease Dataset
+Kaggle – Heart Disease Dataset
 
 Documentation officielle Scikit-learn
 
 ## 👥 Contributeurs
 
-Basma El kadri
-Imane Baychou
-Ghita Benlachen
+- Basma El kadri
+- Imane Baychou
+- Ghita Benlachen
 
 ## 📄 Licence
 

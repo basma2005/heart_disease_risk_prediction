@@ -113,10 +113,10 @@ Heart-Disease-Prediction/
 
 ## 📊 Résultats
 ### Matrice de Confusion
-- images/confusion_matrix.png
+- images/confusion_matrix_svm_poly.png
 
 ### Courbe ROC
-- images/roc_curve.png
+- images/roc_curve_svm_poly.png
 
 ## 🧪 Technologies Utilisées
 
@@ -132,17 +132,23 @@ Heart-Disease-Prediction/
 
 - Joblib
 
+---
+
 ## 📚 Références
 
 Kaggle – Heart Disease Dataset
 
 Documentation officielle Scikit-learn
 
+---
+
 ## 👥 Contributeurs
 
 - Basma El kadri
 - Imane Baychou
 - Ghita Benlachen
+
+---
 
 ## 📄 Licence
 

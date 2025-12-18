@@ -1,9 +1,6 @@
 # 🫀 Prédiction des Maladies Cardiaques par Machine Learning  
 
-![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.0+-orange.svg)  
-![Streamlit](https://img.shields.io/badge/Streamlit-1.0+-red.svg)  
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Python](https://img.shields.io/badge/Python-3.9+-blue.svg) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.0+-orange.svg) ![Streamlit](https://img.shields.io/badge/Streamlit-1.0+-red.svg) ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ---
 
@@ -86,7 +83,7 @@ python src/model.py
 - notebook/model.ipynb
 
 ## 📁 Structure du Projet
-
+``` 
 Heart-Disease-Prediction/
 │
 ├── dataset/          # Données brutes
@@ -97,7 +94,7 @@ Heart-Disease-Prediction/
 ├── app.py            # Application Streamlit
 ├── requirements.txt  # Entraînement du modèle
 └── README.md         # README file
-
+```
 ---
 
 ## 🖥️ Interface Streamlit
